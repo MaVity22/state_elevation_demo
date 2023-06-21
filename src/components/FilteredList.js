@@ -1,4 +1,5 @@
 import React from 'react';
+// Probado carga a GitHub
  
 const FilteredList = ({ filter, items }) => items
     .map((item, i) => {
