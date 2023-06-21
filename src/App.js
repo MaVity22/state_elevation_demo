@@ -1,5 +1,6 @@
 import React from 'react';
 import Wrapper from './components/Wrapper';
+// Para subir a Github
 function App() {
   return (
     <div className="App">
